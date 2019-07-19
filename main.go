@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/fogleman/pixsort/pixsort"
+	"github.com/djruess/pixsort/pixsort"
 )
 
 func main() {
